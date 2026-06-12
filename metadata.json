@@ -1,0 +1,6 @@
+{
+  "name": "FTTH VirtuaLab",
+  "description": "Aplikasi Lab Maya interaktif untuk pembelajaran praktikum Serat Optik (Fiber Optic) Jurusan TJKT Fase E dengan simulasi K3LH, penyambungan, dan pengukuran redaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
